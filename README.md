@@ -4,7 +4,7 @@ This repository contains the code for my personal portfolio website built using 
 
 # Live Demo
 
-www.muezism.pro
+https://muezism.pro/
 
 # Prerequisites
 
